@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hybrid-assignment/static/css/main.5cbe7efe.css",
-    "main.js": "/hybrid-assignment/static/js/main.4fe6cb96.js",
+    "main.js": "/hybrid-assignment/static/js/main.60db2663.js",
     "index.html": "/hybrid-assignment/index.html",
     "main.5cbe7efe.css.map": "/hybrid-assignment/static/css/main.5cbe7efe.css.map",
-    "main.4fe6cb96.js.map": "/hybrid-assignment/static/js/main.4fe6cb96.js.map"
+    "main.60db2663.js.map": "/hybrid-assignment/static/js/main.60db2663.js.map"
   },
   "entrypoints": [
     "static/css/main.5cbe7efe.css",
-    "static/js/main.4fe6cb96.js"
+    "static/js/main.60db2663.js"
   ]
 }
