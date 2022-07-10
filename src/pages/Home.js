@@ -24,7 +24,7 @@ function Home() {
 
     setShowLoading(true);
     const response = await axios.get(
-      `http://hn.algolia.com/api/v1/search?query=${searchParams.get(
+      `https://hn.algolia.com/api/v1/search?query=${searchParams.get(
         "searchText"
       )}`
     );
